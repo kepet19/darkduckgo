@@ -6,6 +6,7 @@
 // homepage   https://github.com/kepet19/darkduckgo
 // copyright  2019+, kkmp https://github.com/kepet19
 // license    MIT; https://raw.githubusercontent.com/kepet19/darkduckgo/master/LICENSE
+// @icon      https://github.com/kepet19/darkduckgo/raw/master/icon.png
 // @match     https://duckduckgo.com/
 // @grant     GM_addStyle
 // ==/UserScript==
