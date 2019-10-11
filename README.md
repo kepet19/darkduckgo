@@ -15,7 +15,7 @@ boom done installing ☑
 ---
 ## ViolentMonkey | TamperMonkey
 
-| ### Firefox                                                                    | ### Chrome                                                                                                |
+| Firefox                                                                    | Chrome                                                                                                |
 -------------------- | ---------------------
 | [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) | [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
 | [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)   | [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   |
