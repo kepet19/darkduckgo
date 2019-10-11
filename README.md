@@ -7,8 +7,8 @@ DarkDuckGo is just a logo change. the logo changed to this ⬇
 you have to have either TamperMonkey or ViolentMonkey installed
 
 open [darkduckgo.user.js](https://github.com/kepet19/darkduckgo/raw/master/darkduckgo.user.js)
-click install
-remeber to change the theme to darkmode in DuckDuckGo
+click install  
+remeber to change the theme to darkmode in DuckDuckGo  
 boom done installing ☑
 
 
