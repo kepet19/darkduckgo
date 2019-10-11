@@ -13,9 +13,9 @@ boom done installing ☑
 
 
 ---
-## ViolentMonkey | TamperMonkey
+## Extensions for browsers you need
 
-| Firefox                                                                    | Chrome                                                                                                |
--------------------- | ---------------------
-| [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) | [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |
-| [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)   | [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   |
+| Firefox                                                                    | Chrome    | Opera | Egde |
+| -------| ------------- | --------------|------- |
+| [ViolentMonkey](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/) | [ViolentMonkey](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) |     |   |
+| [TamperMonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/)   | [TamperMonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)   | [TamperMonkey](https://addons.opera.com/en/extensions/details/tampermonkey-beta/) | [TamperMonkey](https://www.microsoft.com/da-dk/p/tampermonkey/9nblggh5162s?rtc=1&activetab=pivot:overviewtab) | 
